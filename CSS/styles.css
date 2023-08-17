@@ -1,0 +1,12 @@
+
+#chandelierCarousel{
+    margin-top: 20px;
+    height: auto;
+    width:auto;
+  }
+  
+  .carousel-item img {
+    max-height: 400px;
+    object-fit: fill;
+  }
+  
